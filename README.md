@@ -3,13 +3,13 @@
 
 # spritezero-cli
 
-A command-line interface to [spritezero](https://github.com/mapbox/spritezero).
+**This project is a fork of the `@mapbox/spritezero-cli` to support Node.js >= 14.0.0.**
 
-This project is a fork of the `@mapbox/spritezero-cli` to support Node.js >= 14.0.0.
+A command-line interface to [spritezero](https://github.com/mapbox/spritezero).
 
 ## Installation
 
-    npm install -g @mapbox/spritezero-cli
+    npm install -g @geolonia/spritezero-cli
 
 ## Usage
 
