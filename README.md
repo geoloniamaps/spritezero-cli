@@ -9,7 +9,7 @@ A command-line interface to [spritezero](https://github.com/mapbox/spritezero).
 
 ## Installation
 
-    npm install -g @geolonia/spritezero-cli
+    npm install -g https://github.com/geoloniamaps/spritezero-cli
 
 ## Usage
 
