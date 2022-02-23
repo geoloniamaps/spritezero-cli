@@ -1,12 +1,12 @@
 {
-  "name": "@mapbox/spritezero-cli",
+  "name": "@geolonia/spritezero-cli",
   "version": "2.1.0",
   "main": "index.js",
-  "description": "a command-line interface for spritezero generation of raster sprites from SVG input",
-  "author": "Tom MacWright",
+  "description": "a fork of the @mapbox/spritezero-cli to support Node v14+.",
+  "author": "Geolonia",
   "license": "ISC",
-  "repository": "mapbox/spritezero-cli",
-  "bugs": "https://github.com/mapbox/spritezero-cli/issues",
+  "repository": "geolonia/spritezero-cli",
+  "bugs": "https://github.com/geolonia/spritezero-cli/issues",
   "bin": {
     "spritezero": "bin/spritezero"
   },
